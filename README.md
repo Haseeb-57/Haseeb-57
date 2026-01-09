@@ -15,9 +15,9 @@
 - 🔭 I’m interested in **Backend Technologies** including **Node.js**, **Python**, **Databases**, and **Network Security**.
 - 🌱 I’m currently learning **Koa.js**.
 - 🤝 I’m looking to collaborate on open source backend projects.
-- 📫 How to reach me: *[Add your email or social link here]*
+- 📫 How to reach me: **haseeb.rehman2868@gmail.com**
 - 😄 Pronouns: **Mr / He / Him**
-- ⚡ Fun fact: *[Add a fun fact about yourself]*
+- ⚡ Fun fact: **The first computer bug was an actual moth found in the Harvard Mark II computer in 1947.**
 
 ---
 
